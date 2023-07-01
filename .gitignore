@@ -1,6 +1,6 @@
 ./lambda/bin/*
 ./build/*
 ./terraform/.terraform/*
-./terraform/.terraform.lock*
+./terraform/.terraform.lock.*
 *.tfstate
 *.tfstate.*
